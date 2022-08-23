@@ -34,7 +34,7 @@ h2{
 h3{
     text-align: center;
     font-size: 5ch;
-    margin-top: 4.5in;
+    margin-top: 300px;
 }
 button{
     display: inline-block;
@@ -111,13 +111,13 @@ h1{
 }
 .image2 {
     position: absolute;
-    margin-top: 100px;
-    top: 2300px;
+    margin-top: 30px;
+    top: 2150px;
     left: 553px;
   }
   .image3{
     position: absolute;
-    margin-top: 710px;
-    top: 2300px;
+    margin-top: 660px;
+    top: 2150px;
     left: 553px;
   }
