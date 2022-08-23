@@ -1,0 +1,101 @@
+button{
+    display: inline-block;
+        background-color: #00BFFF;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 200px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+        
+}
+body{
+    background: url(geo.jpg);
+    background-size:cover;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 7ch;
+}
+.container{
+    text-align: center;
+}
+.social{
+    text-align: center;
+    margin-top: 100px;
+}
+input[type=text], select, textarea {
+    width: 50%; 
+    padding: 12px; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    resize: vertical 
+    
+  }
+  input[type=submit] {
+    background-color: #00BFFF;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: right;
+  }
+  input[type=submit]:hover {
+    background-color: #00BFFF;
+
+  }
+  .container1 {
+    border-radius: 5px;
+    background-color: rgba(31, 19, 165, 0.421);
+    padding: 20px;
+    padding-left: 20px;
+    text-align: left;
+    width: 600px;
+    height: 560px;
+    margin-left: 975px;
+    
+  }
+  p{
+    font-size: 3ch;
+    text-align: center;
+  }
+  .submit{
+    margin-left: 255px;
+  }
+#lname{
+  width:500px;
+  margin-left: 50px;
+}
+#fname{
+  width:500px;
+  margin-left: 50px;
+}
+#country{
+  width:500px;
+  margin-left: 50px;
+}
+#Email{
+  width: 500px;
+  margin-left: 50px;
+}
+#subject{
+  margin-left: 50px;
+  width:500px;
+}
+.contact{
+  float: left;
+  margin-left:250px;
+  width: 680px;
+  height: 600px;
+}

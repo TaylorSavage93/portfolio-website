@@ -1,0 +1,123 @@
+
+body{
+    background: url('geo.jpg');
+    background-size:2000px 1200px;
+    color: white;
+}
+p{
+    letter-spacing: 1px;
+    font-size: 1rem;
+    min-width: 250px;
+    line-height: 1.4;
+    height: 2in;
+    width: 6in;
+    font-size: 18px;
+    margin-left: 1000px;
+    margin-top: 70px;
+    padding: 20px;
+    background-color: #00000098;
+    border-style: solid;
+    border-radius: 20px;
+    
+}
+h2{
+    margin-right: 10in;
+    margin-left: 1in;
+    font-size: 2rem;
+
+}
+.aboutimage {
+    margin-left: 290px;
+    height: 3in;
+    float:left
+}
+h3{
+    text-align: center;
+    font-size: 5ch;
+    margin-top: 4.5in;
+}
+button{
+    display: inline-block;
+        background-color: #00BFFF;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 200px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+        
+        
+}
+.container{
+    text-align: center;
+}
+button2{
+        float: left;
+        background-color: #00bfffe2;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 200px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin-left: 310px;
+        margin-top: 20px;
+        position: absolute; left: 9px;
+        
+        
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    color: black;
+    border-radius: 48px;
+    background-color: white;
+    border-width: 400px;
+}
+.grid-item {
+    
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 5ch;
+}
+.certificates{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image2 {
+    position: absolute;
+    margin-top: 100px;
+    top: 2300px;
+    left: 553px;
+  }
+  .image3{
+    position: absolute;
+    margin-top: 710px;
+    top: 2300px;
+    left: 553px;
+  }

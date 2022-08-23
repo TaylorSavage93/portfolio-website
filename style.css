@@ -1,0 +1,68 @@
+
+:root{
+    --color-primary: #191d2b;
+    --color-secondary: #27AE60;
+    --color-white: #FFFFFF;
+    --color-black: #000;
+    --color-grey0: #f8f8f8;
+    --color-grey1: #dbe1e8;
+    --color-grey2: #6c7983;
+    --color-grey3: #6c7983;
+    --color-grey4: #454e56;
+    --color-grey5: #2a2e35;
+    --color-grey6: #12181b;
+    --br-sm-2: 14px;
+}
+
+body{
+   background: url('./background.webp'); 
+   background-size: cover;
+   font-size:medium;
+   color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 500%;
+
+}
+h2{
+    text-align: center;
+    font-size: 4ch;
+}
+
+.center {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+    
+  }
+
+  p{
+    text-align: center;
+    font-size:4ch;
+  }
+  button{
+    
+    display: inline-block;
+        background-color: #00BFFF;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 200px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+        
+}
+.container{
+    text-align: center;
+}
